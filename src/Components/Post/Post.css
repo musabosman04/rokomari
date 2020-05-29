@@ -1,0 +1,10 @@
+.post-container{
+    width: 30%;
+    float: left;
+    margin: 40px 0 40px 35px;
+    height: 500px;
+}
+.post-title:hover{
+    color: #f68121;
+    transition: .2s;
+}
